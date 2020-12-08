@@ -10,3 +10,4 @@
       "plugin:@typescript-eslint/recommended"
     ]
   }
+  //Configuração do eslint
